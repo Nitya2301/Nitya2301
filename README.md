@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Nitya Yadav
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:141E30,100:243B55&text=Nitya%20Yadav&fontSize=55&fontColor=58A6FF&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer+in+Progress;Cybersecurity+Enthusiast;DSA+Problem+Solver;Open+Source+Contributor;Building+Projects+Every+Week" />
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Nitya%20Yadav&fontSize=60&fontAlignY=40&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Enthusiast;Cybersecurity+Learner;DSA+Problem+Solver;Open+Source+Explorer;Building+Projects+Every+Week"/>
 
 </div>
 
