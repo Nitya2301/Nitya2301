@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Nitya Yadav
 
-<!--
-**Nitya2301/Nitya2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 B.Tech Student
+- 💻 Learning Machine Learning
+- 🔒 Learning Cybersecurity
+- 📚 Practicing DSA in C++
+- 🌱 Building projects every week
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- C++
+- Git & GitHub
+- Machine Learning
+- SQL
+
+## 🚀 Featured Projects
+
+- 🚗 Car Price Predictor
+- 🎬 Movie Recommendation System
+- 📊 Housing Market Analysis
+- 🏥 SANJEEVANI
+
+## 🎯 Goals
+
+- Upload 1 project every week
+- Solve 500+ DSA problems
+- Build ML projects
+- Contribute to Open Source
